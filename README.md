@@ -24,7 +24,7 @@ The Train Ticket Management System (TTMS) is developed by Team 14 as part of the
 
 1. Clone the repository:
    \```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/InshaadMerchant/Train-Booking-System
    \```
 2. Navigate to the project directory in your terminal.
 
