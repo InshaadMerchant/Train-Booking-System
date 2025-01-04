@@ -68,10 +68,6 @@ Use the following commands to run specific queries and manage data:
 
 We welcome contributions from the community. To contribute, please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - UT Arlington for academic integrity and support
