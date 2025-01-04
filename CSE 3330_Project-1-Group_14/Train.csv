@@ -1,0 +1,17 @@
+Train Number, Train Name,Premium Fair, General Fair, Source Station, Destination Station, Available on  Weekdays
+1, Orient Express ,800,600, Paris, Istanbul,Monday
+1, Orient Express ,800,600, Paris, Istanbul,Tuesday
+1, Orient Express ,800,600, Paris, Istanbul,Wednesday
+1, Orient Express ,800,600, Paris, Istanbul,Thursday
+1, Orient Express ,800,600, Paris, Istanbul,Friday
+2, Flying Scotsman,4000,3500, Edinburgh, London,Friday
+2, Flying Scotsman,4000,3500, Edinburgh, London,Saturday
+2, Flying Scotsman,4000,3500, Edinburgh, London,Sunday
+3, Golden Arrow ,980,860, Victoria, Dover,Monday
+3, Golden Arrow ,980,860, Victoria, Dover,Tuesday
+3, Golden Arrow ,980,860, Victoria, Dover,Wednesday
+4, Golden Chariot,4300,3800, Bangalore, Goa,Saturday
+4, Golden Chariot,4300,3800, Bangalore, Goa,Sunday
+5, Maharaja Express,5980,4510, Delhi, Mumbai,Wednesday
+5, Maharaja Express,5980,4510, Delhi, Mumbai,Thursday
+5, Maharaja Express,5980,4510, Delhi, Mumbai,Friday

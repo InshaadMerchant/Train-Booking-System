@@ -1,0 +1,2 @@
+SELECT DISTINCT first_name, last_name FROM Passenger, Train, Booked 
+WHERE Train.Train_Number = Booked.Train_Number AND Passenger_ssn = SSN AND Status like '%Booked%' AND Train_Name like '%Golden Chariot%';
